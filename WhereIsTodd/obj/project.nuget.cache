@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9IBQeukHJqo=",
+  "success": true,
+  "projectFilePath": "/home/mmeadows/src/whereistodd/WhereIsTodd/WhereIsTodd.csproj",
+  "expectedPackageFiles": [
+    "/home/mmeadows/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.3/microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
